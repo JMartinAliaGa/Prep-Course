@@ -77,6 +77,7 @@ function colors(color) {
     break;
 
     case "green": return "This is green";
+    break;
 
     case "orange": return "This is orange";
     break; 
